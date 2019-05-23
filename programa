@@ -1,4 +1,4 @@
-<? php
+<?php
 echo "Hola mundo";
 echo "mi nombre es Elgar y hoy tengo un buen día";
 ?>
