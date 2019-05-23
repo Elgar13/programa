@@ -2,9 +2,10 @@
 echo "Hola mundo";
 echo "mi nombre es Elgar y hoy tengo un buen día";
 
-for ($i=1;, $i>10;, $i++)
+for ($i = 1; $i<=10; $i++)
 {
 echo $i;
+sleep ( 1 );
 }
 
 
